@@ -1,1 +1,110 @@
+<!doctype html>
+<head>
+     <title> </title>
+</head>
+<body>
+    <h1>Chitkara University</h1>
+    <p1><b>Located 30 kms from<b> Chandigarh</b>,Chitkara university offers 
+        a world of learing that will help you reach your goals.Choose
+        from our varied industry endorsed programs.Learn from an 
+        outstanding faculty at our state-of-the-art teaching facilities.
+        Explore unlimited opportunities to get placed with one of the 
+        1500+ campus recruiters and meet other students with dreams as 
+        big as yours.
+        </b>
+    </p1>
+    <br>
+    <br>
+    <img src="https://digitallearning.eletsonline.com/wp-content/uploads/2020/04/Chitkara-University.jpg" width="500" height="300">
+     
+    <ul> 
+        <li><b> Courses:</b></li>
+    </ul>
 
+    <table border="5" cell spacing="5" cell padding="15">
+        <tr> 
+            <th>Engineering</th>
+            <th>Science</th>
+            <th>Commerce</th>
+            <th>Others</th>
+        </tr>
+        <tr>
+            <td>btech in cse</td>
+            <td>bsc in maths</td>
+            <td>BBA</td>
+            <td>deploma in IT</td>
+        </tr>
+        <tr> 
+            <td>Btech in ME</td>
+            <td>Bsc in chemistry</td>
+            <td>MBA in marketing</td>
+            <td>deploma in civil</td>
+        </tr>
+        <tr> 
+            <td>Btech in CHE</td>
+            <td>bsc in physics</td>
+            <td>Mba in finance</td>
+            <td>NCC</td>
+        </tr>
+    
+    </table>
+    <ul> 
+        <li><b>Other services:</b></li>
+    </ul>
+        
+        <ul>
+            <ol type="6" start="1">
+            <li>bus</li>
+            <li>career counselling</li>
+            <li>sports</li>
+            <li>hostels</li>
+            <li>restaurants</li>
+        </ul>
+        <ul> 
+            <li><b>Enquery Form:</b></li>  
+        </ul>
+        <form action=""method="post">
+            <li>
+             <label for="name">Name</label>
+             <input type="text">
+             <br><br>
+            </li>
+            <li>
+             <label for="district">District</label>
+             <input type="text">
+             <br><br>
+         </li>
+         <li>
+             <label for="status">email</label>
+             <input type="text">
+             <br><br>
+            </li>
+         <li>
+             <label for="age">Father's name</label>
+             <input type="text"> 
+             <br><br>   
+         </li>
+         <li> 
+             <label for ="DOB">DOB</label>
+             <input type="date">
+             <br><br>
+         </li>
+         <li> 
+            <label for ="email">email</label>
+            <input type="text">
+            <br><br>
+        <br><br>
+            <label for="">Gender</label>
+            <input type="radio" name="gender" id="">Male
+            <input type="radio" name="gender" id="">Female
+            
+         </form>
+         <textarea id="feedback" name="feedback" rows="10" cols="50" >your enquiry here</textarea>
+         <br>
+         <br>
+         <input type="Submit" id="Submit" value="Submit">  
+            
+</body>
+    
+
+    
